@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://book-my-show-backend-kohl.vercel.app',
+  baseURL: 'https://book-my-show-backend-bejg.vercel.app',
 });
 
 // Attach JWT token to every request if available
